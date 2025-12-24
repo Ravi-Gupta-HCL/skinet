@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>API.Program</StartupObject>
+    <PackageProjectUrl>https://localhost:44302</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
